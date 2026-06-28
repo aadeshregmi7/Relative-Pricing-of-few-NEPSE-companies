@@ -15,7 +15,7 @@ Relative Pricing/
     ├── hydro_analysis.ipynb  # Capital structure & asset-heavy operational analytics
     └── life_insurance.ipynb  # Underwriting performance & premium-to-valuation proxies
 
-## Core Valuation Theory & Methodology
+## 2. Core Valuation Theory & Methodology
 
 This submodule implements a defensive financial analytics framework tailored for emerging equity landscapes (such as NEPSE). It cross-references **Cross-Sectional Relative Pricing Multiples** with **Absolute Intrinsic Value Limits** to identify market mispricings while preserving a true margin of safety.
 
