@@ -6,7 +6,7 @@ A quantitative research and relative valuation engine engineered to analyze equi
 
 ## 1. Module Architecture & Components
 
-```text
+
 Relative Pricing/
 ├── bank_data.csv             # Structured cache for Commercial Banking data
 ├── scrap.ipynb               # Sandbox environment for DOM layout prototyping
@@ -14,7 +14,6 @@ Relative Pricing/
     ├── bank_analysis.ipynb   # Banking sector multiples & Graham boundary models
     ├── hydro_analysis.ipynb  # Capital structure & asset-heavy operational analytics
     └── life_insurance.ipynb  # Underwriting performance & premium-to-valuation proxies
-
 
 ## Core Valuation Theory & Methodology
 
